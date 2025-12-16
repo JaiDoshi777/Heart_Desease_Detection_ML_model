@@ -40,7 +40,8 @@ The model achieves a test accuracy of more than 90% (depending on the random see
 <img width="485" height="451" alt="image" src="https://github.com/user-attachments/assets/01b60350-06ca-44b6-bb24-c18ea0c59562" />
 
 * **ROC-AUC:** Demonstrates strong separability between classes.
-<img width="485" height="451" alt="image" src="https://github.com/user-attachments/assets/c5dd65f3-318e-4a8c-8d3c-980dae3311c2" />
+<img width="516" height="451" alt="image" src="https://github.com/user-attachments/assets/fb8d6e29-1111-40bc-8085-d090df9d6740" />
+
   
 
 ## 🚀 How to Run
